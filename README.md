@@ -8,28 +8,9 @@ Estudante de Engenharia Informática, apaixonada por tecnologia e desenvolviment
 Tenho vindo a desenvolver projetos para consolidar os meus conhecimentos em programação e explorar diferentes áreas do desenvolvimento de software. O meu foco é o desenvolvimento FullStack, com maior interesse pelo Backend, procurando criar soluções funcionais, organizadas e eficientes.
 
 
-<p align="left">
-    <a href="https://www.linkedin.com/in/esmeralda-fonseca-aab456371/">
-        <img 
-            alt="LinkedIn icon" 
-            title="Meu LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"
-        />
-    </a>
-    <a href="https://github.com/esmeraldafonseca">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/esmeraldafonseca?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-    
-
-</p>
-
 ---
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 
 <img 
@@ -141,4 +122,29 @@ Tenho vindo a desenvolver projetos para consolidar os meus conhecimentos em prog
 />
 <br/>
 <br/>
+---
+### Contatos
+
+<p align="left">
+    <a href="https://www.linkedin.com/in/esmeralda-fonseca-aab456371/">
+        <img 
+            alt="LinkedIn icon" 
+            title="Meu LinkedIn" 
+            width="30px"
+            style="padding-right: 10px;"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
+        />
+    </a>
+<a href="mailto:esmeralda.fonseca2003@gmail.com">
+    <img
+        alt="Email"
+        title="Contacta-me por email"
+        width="30px"
+        style="padding-right: 10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg"
+    />
+</a>
+    
+
+</p>
 
