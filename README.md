@@ -124,27 +124,11 @@ Tenho vindo a desenvolver projetos para consolidar os meus conhecimentos em prog
 <br/>
 ---
 ### Contatos
+<div> 
+ 
+  <a href = "mailto:esmeralda.fonseca2003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/esmeralda-fonseca-aab456371/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 
-<p align="left">
-    <a href="https://www.linkedin.com/in/esmeralda-fonseca-aab456371/">
-        <img 
-            alt="LinkedIn icon" 
-            title="Meu LinkedIn" 
-            width="30px"
-            style="padding-right: 10px;"
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
-        />
-    </a>
-<a href="mailto:esmeralda.fonseca2003@gmail.com">
-    <img
-        alt="Email"
-        title="Contacta-me por email"
-        width="30px"
-        style="padding-right: 10px;"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg"
-    />
-</a>
-    
-
-</p>
 
