@@ -1,4 +1,4 @@
-# 👩🏾‍💻 Esmeralda Fonseca
+# Esmeralda Fonseca
 
 **`Desenvolvedora Python FullStack`**
 
