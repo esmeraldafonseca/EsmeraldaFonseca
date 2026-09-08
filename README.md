@@ -3,10 +3,9 @@
 **`Desenvolvedora Python FullStack`**
 
 
-Estudante de Engenharia Informática, apaixonada por tecnologia e desenvolvimento de software, com especial interesse por Python.
+Desenvolvedora Full-Stack com foco em Python e especial interesse em Backend. Ao longo do meu percurso em Engenharia Informática, tenho desenvolvido projectos que envolvem programação, bases de dados, APIs e integração entre Frontend e Backend, sempre com foco em criar sistemas organizados, eficientes e de fácil manutenção.
 
-Tenho vindo a desenvolver projetos para consolidar os meus conhecimentos em programação e explorar diferentes áreas do desenvolvimento de software. O meu foco é o desenvolvimento FullStack, com maior interesse pelo Backend, procurando criar soluções funcionais, organizadas e eficientes.
-
+Mais do que dominar tecnologia, procuro compreender o problema que cada solução deve resolver. Estou disponível para contribuir em projectos onde possa transformar requisitos em soluções digitais, colaborar com equipas de desenvolvimento e continuar a aprofundar as minhas competências em Python e Engenharia de Software.
 
 ---
 
